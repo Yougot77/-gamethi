@@ -1,0 +1,7 @@
+echo "# -gamethi" >> README.md 
+git init 
+git เพิ่ม README.md 
+git commit -m "ก่อน
+คอมมิท
+" git remote เพิ่มแหล่งกำเนิดgit@github.com: HellBenz / -gamethi.git git push -u แหล่งกำเนิด
+…หรือพุชที่เก็บข้อมูลที่มีอยู่จากบรรทัดคำสั่ง
